@@ -7,7 +7,7 @@
 <br>
 ### Main Work
 > 💻 **게임 프로그래밍 | Game Programming**<br>
->> [Nqc : Non Qualia Character](https://twitter.com/tarp_game)
+>> [Nqc : Non Qualia Character](https://twitter.com/tarpstudio)
 
 #
 
